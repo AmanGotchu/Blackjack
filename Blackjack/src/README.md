@@ -27,7 +27,7 @@ Need an updated working version of Java: https://www.oracle.com/technetwork/java
 3. Eclipse (Only for running test cases) TODO: Terminal based testing
 
 ### Installing and starting the terminal-based game
-1. cd Blackjack
+1. cd Blackjack/src
 2. javac Start.java
 3. java Start
 
