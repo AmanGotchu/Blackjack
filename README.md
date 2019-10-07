@@ -5,6 +5,7 @@ KPCB Fellowship Card Game Submission
 ## Getting Started
 
 git clone https://github.com/AmanGotchu/Blackjack.git
+cd Blackjack
 
 ### Game Rules
 The code is designed and factored for ease of extendability for more actions and features!
