@@ -39,6 +39,12 @@ Import git project into Eclipse, and run the following tests
 - PlayerHandTest.java
 - PlayerTest.java
 
+If errors are present in Test files opt for Eclipse's suggested Fix to the overall project.
+If still having trouble contact me!
+
+- Email: aman.gottu@gmail.com
+- Phone: 713-471-2306
+
 ## Classes
 
 ### Prompter
