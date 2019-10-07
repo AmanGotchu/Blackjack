@@ -32,7 +32,11 @@ Need an updated working version of Java: https://www.oracle.com/technetwork/java
 3. java Start
 
 ## Running the tests
-Run with eclipse. Supporting terminal tests soon!
+Import git project into Eclipse, and run the following tests
+- CardTest.java
+- DeckTest.java
+- PlayerHandTest.java
+- PlayerTest.java
 
 ## Classes
 
